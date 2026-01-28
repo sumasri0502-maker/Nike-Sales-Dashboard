@@ -1,11 +1,11 @@
 # Nike-Sales-Dashboard
-📌Project Overview
+📌**Project Overview**
 
 This project is an end-to-end Business Analytics dashboard built using Excel, SQL, and Power BI to analyze Nike’s sales performance across products, regions, customer segments, sales channels, and discount strategies.
 The goal is to transform raw transactional data into actionable business insights that support data-driven decision-making.
 
 
-🎯 Business Problem
+🎯 **Business Problem**
 Retail companies often focus heavily on revenue but lack clarity on:
 * Which products and regions actually drive 'profit'
 * Whether discounts increase long-term value or reduce margins
@@ -13,7 +13,7 @@ Retail companies often focus heavily on revenue but lack clarity on:
 Answering these questions using raw data is time-consuming and inefficient.
 
 
-✅ Objective
+✅ **Objective**
 To build an interactive analytics dashboard that:
 * Provides a holistic view of sales and profitability
 * Evaluates the impact of discounts on revenue and margins
@@ -21,7 +21,7 @@ To build an interactive analytics dashboard that:
 * Enables stakeholders to make informed business decisions
 
 
-🧰 Tech Stack
+🧰 **Tech Stack**
 * Excel – Initial data cleaning and exploratory analysis
 * SQL – Data validation, aggregation, and business queries
 * Power BI Desktop – Dashboard development and visualization
@@ -29,7 +29,7 @@ To build an interactive analytics dashboard that:
 * DAX – KPI calculations and dynamic measures
 
 
-📂 Data Source
+📂 **Data Source**
 * Source: Kaggle (Nike Sales Dataset – simulated retail data)
 * Data Includes:
   * Order details and transaction dates
@@ -38,7 +38,7 @@ To build an interactive analytics dashboard that:
   * Region and sales channel
 
 
-🔍 Key KPIs
+🔍 **Key KPIs**
 * Total Revenue
 * Total Profit
 * Total Units Sold
@@ -46,7 +46,7 @@ To build an interactive analytics dashboard that:
 * Profit Margin (%)
 
 
-📊 Dashboard Features
+📊 **Dashboard Features**
 📈 Sales Trend Analysis
 * Monthly revenue trends to identify seasonality and demand patterns
 
@@ -77,7 +77,7 @@ To build an interactive analytics dashboard that:
 * Gender Category
 
 
-📌 Key Insights
+📌 **Key Insights**
 * Discounts increase sales volume but reduce overall profit margins
 * A limited number of product lines generate the majority of revenue
 * Online sales channels outperform offline channels
@@ -85,7 +85,7 @@ To build an interactive analytics dashboard that:
 * Revenue alone is not a reliable indicator of business success without profit analysis
 
 
-🧠 Learnings
+🧠 **Learnings**
 * Hands-on experience with real-world data cleaning and transformation
 * Practical use of SQL for business analysis
 * KPI creation using DAX
@@ -94,11 +94,11 @@ To build an interactive analytics dashboard that:
 
 
 
-🚀 Project Outcome
+🚀 **Project Outcome**
 This project demonstrates my ability to handle the complete Business Analytics lifecycle —from raw data to meaningful insights—using industry-relevant tools and methodologies.
 
 
-📷 Dashboard Preview
+📷 **Dashboard Preview**
 https://github.com/sumasri0502-maker/Nike-Sales-Dashboard/blob/main/Nike%20sales%20dashboard%20(SS).png
 
 
