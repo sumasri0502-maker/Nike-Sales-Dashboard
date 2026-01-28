@@ -104,6 +104,8 @@ This project demonstrates my ability to handle the complete Business Analytics l
 
 📷 **Dashboard Preview**
 https://github.com/sumasri0502-maker/Nike-Sales-Dashboard/blob/main/Nike%20sales%20dashboard%20(SS).png
+<img width="907" height="498" alt="Nike sales dashboard (SS)" src="https://github.com/user-attachments/assets/3059e686-4815-4dae-a21c-a454eb44a600" />
+
 
 
 
