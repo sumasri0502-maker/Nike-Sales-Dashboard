@@ -1,7 +1,9 @@
 # Nike-Sales-Dashboard
 📌Project Overview
+
 This project is an end-to-end Business Analytics dashboard built using Excel, SQL, and Power BI to analyze Nike’s sales performance across products, regions, customer segments, sales channels, and discount strategies.
 The goal is to transform raw transactional data into actionable business insights that support data-driven decision-making.
+
 
 🎯 Business Problem
 Retail companies often focus heavily on revenue but lack clarity on:
@@ -10,6 +12,7 @@ Retail companies often focus heavily on revenue but lack clarity on:
 * How sales performance varies across channels and customer segments
 Answering these questions using raw data is time-consuming and inefficient.
 
+
 ✅ Objective
 To build an interactive analytics dashboard that:
 * Provides a holistic view of sales and profitability
@@ -17,12 +20,14 @@ To build an interactive analytics dashboard that:
 * Identifies high-performing products, regions, and channels
 * Enables stakeholders to make informed business decisions
 
+
 🧰 Tech Stack
 * Excel – Initial data cleaning and exploratory analysis
 * SQL – Data validation, aggregation, and business queries
 * Power BI Desktop – Dashboard development and visualization
 * Power Query – Data transformation and standardization
 * DAX – KPI calculations and dynamic measures
+
 
 📂 Data Source
 * Source: Kaggle (Nike Sales Dataset – simulated retail data)
@@ -32,12 +37,14 @@ To build an interactive analytics dashboard that:
   * Units sold, MRP, discounts, revenue, and profit
   * Region and sales channel
 
+
 🔍 Key KPIs
 * Total Revenue
 * Total Profit
 * Total Units Sold
 * Average Order Value (AOV)
 * Profit Margin (%)
+
 
 📊 Dashboard Features
 📈 Sales Trend Analysis
@@ -69,12 +76,14 @@ To build an interactive analytics dashboard that:
 * Sales Channel
 * Gender Category
 
+
 📌 Key Insights
 * Discounts increase sales volume but reduce overall profit margins
 * A limited number of product lines generate the majority of revenue
 * Online sales channels outperform offline channels
 * Certain regions consistently drive higher profitability
 * Revenue alone is not a reliable indicator of business success without profit analysis
+
 
 🧠 Learnings
 * Hands-on experience with real-world data cleaning and transformation
@@ -84,8 +93,10 @@ To build an interactive analytics dashboard that:
 * Translating data into actionable insights
 
 
+
 🚀 Project Outcome
 This project demonstrates my ability to handle the complete Business Analytics lifecycle —from raw data to meaningful insights—using industry-relevant tools and methodologies.
+
 
 📷 Dashboard Preview
 https://github.com/sumasri0502-maker/Nike-Sales-Dashboard/blob/main/Nike%20sales%20dashboard%20(SS).png
