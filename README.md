@@ -6,6 +6,7 @@ The goal is to transform raw transactional data into actionable business insight
 
 
 🎯 **Business Problem**
+
 Retail companies often focus heavily on revenue but lack clarity on:
 * Which products and regions actually drive 'profit'
 * Whether discounts increase long-term value or reduce margins
@@ -14,6 +15,7 @@ Answering these questions using raw data is time-consuming and inefficient.
 
 
 ✅ **Objective**
+
 To build an interactive analytics dashboard that:
 * Provides a holistic view of sales and profitability
 * Evaluates the impact of discounts on revenue and margins
@@ -47,6 +49,7 @@ To build an interactive analytics dashboard that:
 
 
 📊 **Dashboard Features**
+
 📈 Sales Trend Analysis
 * Monthly revenue trends to identify seasonality and demand patterns
 
@@ -95,7 +98,8 @@ To build an interactive analytics dashboard that:
 
 
 🚀 **Project Outcome**
-This project demonstrates my ability to handle the complete Business Analytics lifecycle —from raw data to meaningful insights—using industry-relevant tools and methodologies.
+
+This project demonstrates my ability to handle the complete Business Analytics lifecycle from raw data to meaningful insight using industry-relevant tools and methodologies.
 
 
 📷 **Dashboard Preview**
