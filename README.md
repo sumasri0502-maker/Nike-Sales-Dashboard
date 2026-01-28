@@ -88,7 +88,7 @@ To build an interactive analytics dashboard that:
 This project demonstrates my ability to handle the complete Business Analytics lifecycle —from raw data to meaningful insights—using industry-relevant tools and methodologies.
 
 📷 Dashboard Preview
-
+https://github.com/sumasri0502-maker/Nike-Sales-Dashboard/blob/main/Nike%20sales%20dashboard%20(SS).png
 
 
 
